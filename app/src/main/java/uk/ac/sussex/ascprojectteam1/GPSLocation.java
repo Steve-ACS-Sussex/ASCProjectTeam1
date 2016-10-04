@@ -1,7 +1,7 @@
 package uk.ac.sussex.ascprojectteam1;
 
 /**
- * Created by Steve Dixon  on 04/10/2016.
+ * Created by Steve Dixon  on 04/10/2016.  test
  */
 
 public class GPSLocation {

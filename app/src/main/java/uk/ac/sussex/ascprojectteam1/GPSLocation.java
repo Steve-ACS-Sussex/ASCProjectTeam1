@@ -22,4 +22,14 @@ public class GPSLocation {
     {
         return longitude;
     }
+
+    public void setLattitude(double lattitude)
+    {
+        this.lattitude = lattitude;
+    }
+
+    public void setLongitude(double longitude)
+    {
+        this.longitude = longitude;
+    }
 }
